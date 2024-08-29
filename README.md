@@ -1,2 +1,2 @@
 # Landing-Page
-https://ashish00312.github.io/Landing-Page/
+https://vaibhavi465.github.io/landing-page/
